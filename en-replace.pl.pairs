@@ -11,7 +11,7 @@ Off
 0
 
 Snowfall
-Opady śniegu
+Opad śniegu
 
 Fullscreen
 Pełny ekran
@@ -26,7 +26,7 @@ Step forward
 Krok naprzód
 
 Continue
-Kontynuować
+Kontynuuj
 
 Profile
 Profil
@@ -44,7 +44,7 @@ Autocomplete
 Autouzupełnienie
 
 The best scoring code in each\ncategory is automatically saved
-Najlepszy kod punktacji w każdej kategorii jest automatycznie zapisywany
+Kod z najlepszą punktacją w każdej kategorii jest automatycznie zapisywany
 
 Type commands here
 Wpisz tutaj polecenia
@@ -71,7 +71,7 @@ and
 i
 
 usage
-stosowanie
+zastosowanie
 
 Medium
 Średni
@@ -80,7 +80,7 @@ Message Archive
 Archiwum wiadomości
 
 Decrease Code Execution Rate
-Zmniejsz współczynnik wykonania kodu
+Zmniejsz prędkość wykonania kodu
 
 Press to run with execution paused
 Naciśnij, aby uruchomić z wstrzymanym wykonaniem
@@ -92,28 +92,28 @@ Press to exit level
 Naciśnij, aby wyjść z poziomu
 
 Notice the current evaluation is highlighted
-Zauważ, że bieżąca ocena jest podświetlona
+Zauważ, że bieżące polecenie jest podświetlone
 
 Change game speed
 Zmień szybkość gry
 
 Back
-Z powrotem
+Wstecz
 
 Click to open the Code Reference, it contains all\nthe primer sections and functions recovered so far
-Kliknij, aby otworzyć odniesienie do kodu, zawiera on wszystkie\nodzyskane do tej pory sekcje i funkcje startera
+Kliknij, aby otworzyć Encyklopedie Kodu, zawiera ona wszystkie\nodkryte do tej pory sekcje i funkcje robota
 
 Begin
-Zaczynać
+Zacznij
 
 Effects
-Ruchomości
+Efekty
 
 Your code will be re-run each stage,\nso a single solution must solve all.\nReturn to the first stage
-Twój kod zostanie ponownie uruchomiony na każdym etapie,\nwięc jedno rozwiązanie musi rozwiązać wszystkie.\nWróć do pierwszego etapu
+Twój kod zostanie uruchomiony ponownie na każdym etapie,\nwięc jedno rozwiązanie musi rozwiązać wszystkie.\nWróć do pierwszego etapu
 
 , to step forward to the next evaluation
-, aby przejść do następnej oceny
+, aby przejść do następnej poziomu
 
 Press play to run
 Naciśnij play, aby uruchomić
@@ -137,16 +137,16 @@ Try using `else`
 Spróbuj użyć `else`
 
 Increase Code Execution Rate
-Zwiększ wskaźnik wykonania kodu
+Zwiększ prędkość wykonania kodu
 
 Stop
-Zatrzymać
+Zatrzymaj
 
 Settings
 Ustawienia
 
 Reset
-Nastawić
+Zresetuj
 
 Reach the revealed location
 Dotrzyj do ujawnionej lokalizacji
@@ -158,16 +158,16 @@ Save & Quit
 Zapisz i wyjdź
 
 Run
-Biegać
+Uruchom
 
 Rework to reach all exits, remember\n code is re-run from the top at each stage
-Przeróbka, aby dotrzeć do wszystkich wyjść, zapamiętaj\nkod jest ponownie uruchamiany z góry na każdym etapie
+Przerób, aby dotrzeć do wszystkich wyjść, zapamiętaj\nkod jest ponownie uruchamiany od początku na każdym etapie
 
 Code Reference
-Odniesienie do kodu
+Encyklopedia Kodu
 
 Reach the first stage exit
-Dotrzyj do pierwszego etapu wyjścia
+Dotrzyj do wyjścia pierwszego etapu
 
 Low
 Niska
@@ -185,7 +185,7 @@ Title Screen
 Ekran tytułowy
 
 Load / Save new approach
-Załaduj / zapisz nowe podejście
+Załaduj / zapisz nową próbe
 
 Levels have multiple stages\nclick here to view each
 Poziomy mają wiele etapów\nkliknij tutaj, aby zobaczyć każdy z nich
@@ -197,10 +197,10 @@ Delete name
 Usuń nazwę
 
 Read Comparison and Conditions III to see
-Czytaj porównanie i warunki III, aby zobaczyć
+Czytaj Porównanie i Warunki III, aby zobaczyć
 
 UI Scale
-Skala interfejsu użytkownika
+Skala interfejsu
 
 , alt pageup/pagedown
 , alt pageup/pagedown
